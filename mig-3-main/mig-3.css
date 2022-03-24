@@ -1,0 +1,23 @@
+body{
+    background-color: beige;
+}
+.a{
+    border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px;
+  width: 1000px;
+  height: 150px;
+}
+.b{
+    border-radius: 25px;
+    border: 2px solid blue;
+    padding: 20px;
+    width: 1000px;
+    height: 150px;
+  }
+.s{
+    transform: translate(1050px, -200px);
+}
+.q{
+    transform: translate(1050px, -300px);
+}
