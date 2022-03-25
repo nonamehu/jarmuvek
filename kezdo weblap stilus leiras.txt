@@ -1,0 +1,4 @@
+szöveg színe fehér calibri betűtípus 20 betüméret
+címek dőlt és fél kövér 25 betűmért calibri light betűtípus
+háttér fekete
+
