@@ -1,0 +1,23 @@
+.header{
+    text-align: center;
+    font-size: xx-large;
+    background-color: grey;
+}
+.body{
+    background-color: lightgray;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.mother{
+    float: left;
+}
+.tank{
+    float: right;
+}
+    
+  
