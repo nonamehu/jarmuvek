@@ -1,0 +1,40 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 70%;
+  }
+  
+  td, th {
+    border: 1px solid rgb(119, 93, 60);
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: grey;
+  }
+
+body {
+    background-color:black;
+    color:burlywood;
+    text-align:justify ;
+
+}
+aside {
+    position:relative;
+    left: 1270px;
+    bottom: 870px;
+    border-style: solid;
+    width:553px;
+    height:865px
+}
+section {
+    border-style: solid;
+    width: 1200px;
+   
+
+   
+}
+a {
+  color:burlywood
+}
